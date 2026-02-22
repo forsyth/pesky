@@ -1,2 +1,2 @@
 # pesky
-Encrypted and MAC-protected network stream, for custom protocols.
+Encrypted and MAC-protected network stream, for custom protocols in Go.
